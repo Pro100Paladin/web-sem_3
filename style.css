@@ -1,14 +1,18 @@
 body {
-    background-color: #6fc795;
+    display: flex;
+    background-color: #96e9f1;
+    flex-direction: column;
+    align-items: center;
 }
 h1 {
-    color: #fff704;
+    color: #ec5c2c;
     font-family: 'Gunny Rewritten', sans-serif;
     font-size: 3rem;
 }
 
 h2 {
     color: #2d195f;
+    font-size: 2rem;
 }
 a {
     color: #f78307;
